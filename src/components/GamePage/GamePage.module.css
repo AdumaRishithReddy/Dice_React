@@ -1,0 +1,16 @@
+.top_section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 2000px;
+    padding-top: 8px;
+    align-items: end;
+}
+.btns{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 220px;
+    gap: 12px;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.boxes{
+    display: flex;
+    align-items:center;
+    justify-content: end;
+}
+.error{
+    font-size: 24px;
+    font-weight: 500;
+    color: #ff0c0c;
+}
